@@ -54,9 +54,3 @@ This project is a marketplace application built using the **ERN stack** (Express
 - Node.js installed on your machine  
 - Airtable account with API Key  
 
-### Steps to Run  
-
-1. **Clone the Repository**  
-   ```bash  
-   git clone https://github.com/om-1980/marketplace
-   cd marketplace
